@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "LSTM_Stock_prediction",
+			"path": "../LSTM_Stock_Prediction/LSTM_Stock_prediction"
+		}
+	],
+	"settings": {}
+}
