@@ -13,6 +13,6 @@ So I want to spend some time to figure it out, just in case i meet this in the f
 
 - LSTM is a commonly use neural network algorithm, mainly for time series or LLM predition. This algorithm was designed to avoid gradient explosion and gradient vanish in RNN. It use "cell" to decide which info should be kept or forgetten, combining by using approprate activative function, which helps to keep gradient in a reasonable range, to avoid gradient explosion and gradient vanish.
 
-- Wiki: [https://en.wikipedia.org/wiki/Long_short-term_memory#:~:text=Long%20short%2Dterm%20memory%20(LSTM,and%20other%20sequence%20learning%20methods.](Long Short Term Memory)
+- Wiki: [Long Short Term Memory](https://en.wikipedia.org/wiki/Long_short-term_memory#:~:text=Long%20short%2Dterm%20memory%20(LSTM,and%20other%20sequence%20learning%20methods)
 
--![alt text](./lstm_intro.png)
+![alt text](./lstm_intro.png)
