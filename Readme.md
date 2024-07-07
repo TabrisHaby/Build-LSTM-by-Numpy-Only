@@ -15,4 +15,4 @@ So I want to spend some time to figure it out, just in case i meet this in the f
 
 - Wiki: [https://en.wikipedia.org/wiki/Long_short-term_memory#:~:text=Long%20short%2Dterm%20memory%20(LSTM,and%20other%20sequence%20learning%20methods.](Long Short Term Memory)
 
--![alt text](./lstm.png)
+-![alt text](./lstm_intro.png)
